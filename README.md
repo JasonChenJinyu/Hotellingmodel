@@ -1,0 +1,2 @@
+# Hotellingmodel
+BNDS Advanced Economics
